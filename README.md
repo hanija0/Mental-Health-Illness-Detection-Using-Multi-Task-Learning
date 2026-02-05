@@ -186,15 +186,6 @@ All artifacts are reproducible and version-controlled.
 
 ---
 
-## Ethical Disclaimer
-
-This system is intended **only for research and decision-support**.
-
-It **must not** be used as a standalone diagnostic tool.
-Final medical decisions must be made by qualified professionals.
-
----
-
 ## Future Extensions
 
 * Cost-sensitive loss functions
@@ -203,23 +194,3 @@ Final medical decisions must be made by qualified professionals.
 * Clinical rule integration
 * Deployment as a secured web service
 
----
-
-## Author
-
-**Hanija Edupuganti**
-Department of Computer Science & Engineering
-
----
-
-## Why This Is Intel-Level
-
-* Multitask formulation mirrors real clinical conditions
-* Emphasis on **system robustness**, not just accuracy
-* Strong validation discipline
-* Explainability integrated by design
-* Deployment-ready architecture mindset
-
----
-
-*This README reflects engineering rigor suitable for research-to-production ML systems.*
